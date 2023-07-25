@@ -1,0 +1,24 @@
+C:\lipa3\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).exe.config
+C:\lipa3\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).exe
+C:\lipa3\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).pdb
+C:\lipa3\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.AssemblyReference.cache
+C:\lipa3\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.SuggestedBindingRedirects.cache
+C:\lipa3\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.CoreCompileInputs.cache
+C:\lipa3\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).exe
+C:\lipa3\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).exe.config
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.AssemblyReference.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Downloads\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).exe.config
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\bin\Debug\QuickSortLista(2).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.AssemblyReference.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Debug\QuickSortLista(2).pdb

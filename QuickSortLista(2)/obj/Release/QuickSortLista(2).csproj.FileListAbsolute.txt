@@ -1,0 +1,8 @@
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\bin\Release\QuickSortLista(2).exe.config
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\bin\Release\QuickSortLista(2).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\bin\Release\QuickSortLista(2).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Release\QuickSortLista(2).csproj.AssemblyReference.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Release\QuickSortLista(2).csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Release\QuickSortLista(2).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Release\QuickSortLista(2).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortLista(2)\QuickSortLista(2)\obj\Release\QuickSortLista(2).pdb
